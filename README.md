@@ -1,1 +1,1 @@
-artificail intelligence api for car parking management system
+artificial intelligence api for car parking management system
